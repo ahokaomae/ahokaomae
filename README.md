@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ahokaomae
+- 👀 I’m interested in data science and just startig to learn it.
+- 🌱 I’m currently learning data science
